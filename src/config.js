@@ -22,7 +22,7 @@ const solanaMetadata = {
 };
 
 // If you have selected Solana then the collection starts from 0 automatically
-//아 왜 잔디 안ddasd심ss겨
+//아 왜 잔디 안ddasd심ssasd겨
 const layerConfigurations = [
     {
         growEditionSizeTo: 20,
