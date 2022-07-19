@@ -1,0 +1,55 @@
+{
+  "name": "GOXO Society #19",
+  "description": "Golfwear of Originality X Ordinary",
+  "image": "ipfs://QmSouKQroVexDKE5VioGWLefsUhSAGiPwkPSBBs5csYp11/19.png",
+  "dna": "9a52aa4a02ba0c855e035df3067cec433f6c7515",
+  "edition": 19,
+  "date": 1658241157532,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "background_3"
+    },
+    {
+      "trait_type": "Background_tools",
+      "value": "background_tools_2"
+    },
+    {
+      "trait_type": "weather",
+      "value": "weather_3"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes_1"
+    },
+    {
+      "trait_type": "face_color",
+      "value": "face_color_white_"
+    },
+    {
+      "trait_type": "emotion",
+      "value": "emotion_5"
+    },
+    {
+      "trait_type": "cap",
+      "value": "cap_2"
+    },
+    {
+      "trait_type": "cap_acc",
+      "value": "bucket_acc_1"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_4"
+    },
+    {
+      "trait_type": "equipment",
+      "value": "equipment_2"
+    },
+    {
+      "trait_type": "hand",
+      "value": "hand_1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
