@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = 'GOXO Society';
 const description = 'Golfwear of Originality X Ordinary';
-const baseUri = 'ipfs://NewUriToReplace';
+const baseUri = 'ipfs://QmbeWPhUh1ewAhutzpqaqCZDbua2oGcHoByA1o5QZ2T8xT';
 
 const solanaMetadata = {
     symbol: 'YC',
