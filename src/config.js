@@ -31,6 +31,7 @@ const layerConfigurations = [
             { name: 'Background_tools' },
             { name: 'weather' },
             { name: 'clothes' },
+            { name: 'neck' },
             { name: 'face_color' },
             { name: 'emotion' },
             { name: 'cap' },
