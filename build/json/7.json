@@ -2,57 +2,41 @@
   "name": "GOXO Society #7",
   "description": "Golfwear of Originality X Ordinary",
   "image": "ipfs://QmbeWPhUh1ewAhutzpqaqCZDbua2oGcHoByA1o5QZ2T8xT/7.png",
-  "dna": "f4c5ff92a54f1d2597d9537709540e5b90757d92",
+  "dna": "e3643353ae0ca12d3e7f5cf086c5740fa0eab66a",
   "edition": 7,
-  "date": 1658912755838,
+  "date": 1662096189629,
   "attributes": [
     {
-      "trait_type": "Backgrounds",
-      "value": "background_5"
-    },
-    {
-      "trait_type": "Background_tools",
-      "value": "background_tools_2"
+      "trait_type": "backgrounds",
+      "value": "Artboard 7"
     },
     {
       "trait_type": "weather",
-      "value": "weather_1"
+      "value": "invisible"
+    },
+    {
+      "trait_type": "behind",
+      "value": "golf_bag"
     },
     {
       "trait_type": "clothes",
-      "value": "clothes_10"
+      "value": "cute"
     },
     {
-      "trait_type": "neck",
-      "value": "neck_3"
+      "trait_type": "bag",
+      "value": "bag_beige"
     },
     {
       "trait_type": "face_color",
-      "value": "face_color_white_"
-    },
-    {
-      "trait_type": "emotion",
-      "value": "emotion_4"
+      "value": "Artboard 1"
     },
     {
       "trait_type": "cap",
-      "value": "bucket_3"
-    },
-    {
-      "trait_type": "cap_acc",
-      "value": "cap_acc_2"
+      "value": "fedora"
     },
     {
       "trait_type": "eyes",
-      "value": "eyes_4"
-    },
-    {
-      "trait_type": "equipment",
-      "value": "equipment_2"
-    },
-    {
-      "trait_type": "hand",
-      "value": "hand_1"
+      "value": "eyes_orange"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -25,20 +25,16 @@ const solanaMetadata = {
 //아 왜 잔디 안심기냐
 const layerConfigurations = [
     {
-        growEditionSizeTo: 20,
+        growEditionSizeTo: 10,
         layersOrder: [
-            { name: 'Backgrounds' },
-            { name: 'Background_tools' },
+            { name: 'backgrounds' },
             { name: 'weather' },
+            { name: 'behind' },
             { name: 'clothes' },
-            { name: 'neck' },
+            { name: 'bag' },
             { name: 'face_color' },
-            { name: 'emotion' },
             { name: 'cap' },
-            { name: 'cap_acc' },
             { name: 'eyes' },
-            { name: 'equipment' },
-            { name: 'hand' },
         ],
     },
 ];

@@ -3,7 +3,9 @@
   "version": "1.1.1",
   "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": {
+    "hashlips_art_engine": "index.js"
+  },
   "pkg": {
     "assets": [
       "layers/**/*",
@@ -27,5 +29,14 @@
     "canvas": "^2.8.0",
     "gif-encoder-2": "^1.0.5",
     "sha1": "^1.1.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/91savage/NFT_Art.git"
+  },
+  "bugs": {
+    "url": "https://github.com/91savage/NFT_Art/issues"
+  },
+  "homepage": "https://github.com/91savage/NFT_Art#readme"
 }
