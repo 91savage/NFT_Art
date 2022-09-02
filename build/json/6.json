@@ -2,13 +2,36 @@
   "name": "GOXO Society #6",
   "description": "Golfwear of Originality X Ordinary",
   "image": "ipfs://QmbeWPhUh1ewAhutzpqaqCZDbua2oGcHoByA1o5QZ2T8xT/6.png",
+<<<<<<< HEAD
   "dna": "549198cd882d796c94dd99aafe2e0d6847bc7e88",
+=======
+<<<<<<< HEAD
+  "dna": "510f651d880cde56e5438aae12a32e370c809932",
+  "edition": 6,
+  "date": 1660647536996,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "background_1"
+=======
+  "dna": "ea5b1ae845e017b4131232e6205e7a87a90552bb",
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
   "edition": 6,
   "date": 1662096189524,
   "attributes": [
     {
+<<<<<<< HEAD
       "trait_type": "backgrounds",
       "value": "Artboard 6"
+=======
+      "trait_type": "Backgrounds",
+      "value": "background_5"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "Background_tools",
+      "value": "background_tools_1"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     },
     {
       "trait_type": "weather",
@@ -28,6 +51,7 @@
     },
     {
       "trait_type": "face_color",
+<<<<<<< HEAD
       "value": "Artboard 1"
     },
     {
@@ -37,6 +61,49 @@
     {
       "trait_type": "eyes",
       "value": "eyes_sky"
+=======
+      "value": "face_color_white_"
+    },
+    {
+      "trait_type": "emotion",
+<<<<<<< HEAD
+      "value": "emotion_4"
+    },
+    {
+      "trait_type": "cap",
+      "value": "fedora_3"
+=======
+      "value": "emotion_2"
+    },
+    {
+      "trait_type": "cap",
+      "value": "fedora_2"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "cap_acc",
+      "value": "bucket_acc_1"
+    },
+    {
+      "trait_type": "eyes",
+<<<<<<< HEAD
+      "value": "eyes_4"
+    },
+    {
+      "trait_type": "equipment",
+      "value": "glass_1"
+=======
+      "value": "eyes_6"
+    },
+    {
+      "trait_type": "equipment",
+      "value": "p4"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "hand",
+      "value": "hand_1"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     }
   ],
   "compiler": "HashLips Art Engine"

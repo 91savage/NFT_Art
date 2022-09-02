@@ -2,11 +2,25 @@
   "name": "GOXO Society #1",
   "description": "Golfwear of Originality X Ordinary",
   "image": "ipfs://QmbeWPhUh1ewAhutzpqaqCZDbua2oGcHoByA1o5QZ2T8xT/1.png",
+<<<<<<< HEAD
   "dna": "0af66e3e866781598fca91ec1812f5f59e59daeb",
+=======
+<<<<<<< HEAD
+  "dna": "b44e9707e6f4fafc38cf3fb31a36cd994705dac3",
+  "edition": 1,
+  "date": 1660647536225,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "background_5"
+=======
+  "dna": "9632f2e3bfe403803ecb922c15f1c8bbaba68a96",
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
   "edition": 1,
   "date": 1662096188913,
   "attributes": [
     {
+<<<<<<< HEAD
       "trait_type": "backgrounds",
       "value": "Artboard 4"
     },
@@ -17,6 +31,19 @@
     {
       "trait_type": "behind",
       "value": "yajasu"
+=======
+      "trait_type": "Backgrounds",
+      "value": "background_1"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "Background_tools",
+      "value": "background_tools_1"
+    },
+    {
+      "trait_type": "weather",
+      "value": "weather_3"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     },
     {
       "trait_type": "clothes",
@@ -28,6 +55,7 @@
     },
     {
       "trait_type": "face_color",
+<<<<<<< HEAD
       "value": "Artboard 1"
     },
     {
@@ -37,6 +65,49 @@
     {
       "trait_type": "eyes",
       "value": "eyes_white"
+=======
+      "value": "face_color_yellow_"
+    },
+    {
+      "trait_type": "emotion",
+<<<<<<< HEAD
+      "value": "emotion_4"
+    },
+    {
+      "trait_type": "cap",
+      "value": "bucket_1"
+    },
+    {
+      "trait_type": "cap_acc",
+      "value": "bucket_acc_3"
+=======
+      "value": "emotion_3"
+    },
+    {
+      "trait_type": "cap",
+      "value": "bucket_5"
+    },
+    {
+      "trait_type": "cap_acc",
+      "value": "bucket_acc_2"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_4"
+    },
+    {
+      "trait_type": "equipment",
+<<<<<<< HEAD
+      "value": "glass_2"
+=======
+      "value": "p5"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "hand",
+      "value": "hand_1"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     }
   ],
   "compiler": "HashLips Art Engine"

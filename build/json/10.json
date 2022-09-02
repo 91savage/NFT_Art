@@ -2,11 +2,25 @@
   "name": "GOXO Society #10",
   "description": "Golfwear of Originality X Ordinary",
   "image": "ipfs://QmbeWPhUh1ewAhutzpqaqCZDbua2oGcHoByA1o5QZ2T8xT/10.png",
+<<<<<<< HEAD
   "dna": "c20e83a43a12e607918897379647aaf81273a91d",
+=======
+<<<<<<< HEAD
+  "dna": "9920e94f62ffbd34ca316c969341ed70669aabc8",
+  "edition": 10,
+  "date": 1660647537637,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "background_4"
+=======
+  "dna": "83f731162e4e538b4dd4abedef7a0df2f963b936",
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
   "edition": 10,
   "date": 1662096190034,
   "attributes": [
     {
+<<<<<<< HEAD
       "trait_type": "backgrounds",
       "value": "Artboard 3"
     },
@@ -17,6 +31,19 @@
     {
       "trait_type": "behind",
       "value": "guitar"
+=======
+      "trait_type": "Backgrounds",
+      "value": "background_1"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "Background_tools",
+      "value": "background_tools_2"
+    },
+    {
+      "trait_type": "weather",
+      "value": "weather_2"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     },
     {
       "trait_type": "clothes",
@@ -32,11 +59,43 @@
     },
     {
       "trait_type": "cap",
+<<<<<<< HEAD
       "value": "visor_green"
     },
     {
       "trait_type": "eyes",
       "value": "eyes_purple"
+=======
+      "value": "fedora_4"
+    },
+    {
+      "trait_type": "cap_acc",
+<<<<<<< HEAD
+      "value": "cap_acc_2"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_6"
+    },
+    {
+      "trait_type": "equipment",
+      "value": "equipment_1"
+=======
+      "value": "bucket_acc_1"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_3"
+    },
+    {
+      "trait_type": "equipment",
+      "value": "p3"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "hand",
+      "value": "hand_1"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     }
   ],
   "compiler": "HashLips Art Engine"

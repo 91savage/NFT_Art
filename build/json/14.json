@@ -1,0 +1,85 @@
+{
+  "name": "GOXO Society #14",
+  "description": "Golfwear of Originality X Ordinary",
+  "image": "ipfs://QmbeWPhUh1ewAhutzpqaqCZDbua2oGcHoByA1o5QZ2T8xT/14.png",
+<<<<<<< HEAD
+  "dna": "c6f1420e05cb32c4275719d903e78382adf51814",
+  "edition": 14,
+  "date": 1660647538288,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "background_3"
+=======
+  "dna": "bc32ad9bba16bef1ded4a0ab451c12c3bf90d2e9",
+  "edition": 14,
+  "date": 1658912756868,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "background_2"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "Background_tools",
+      "value": "background_tools_2"
+    },
+    {
+      "trait_type": "weather",
+      "value": "weather_2"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes_4"
+    },
+    {
+      "trait_type": "neck",
+      "value": "scarf_3"
+    },
+    {
+      "trait_type": "face_color",
+      "value": "face_color_white_"
+    },
+    {
+      "trait_type": "emotion",
+      "value": "emotion_5"
+    },
+    {
+      "trait_type": "cap",
+<<<<<<< HEAD
+      "value": "cap_2"
+    },
+    {
+      "trait_type": "cap_acc",
+      "value": "bucket_acc_1"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_8"
+    },
+    {
+      "trait_type": "equipment",
+      "value": "glass_2"
+=======
+      "value": "cap_5"
+    },
+    {
+      "trait_type": "cap_acc",
+      "value": "bucket_acc_3"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_3"
+    },
+    {
+      "trait_type": "equipment",
+      "value": "glass_3"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "hand",
+      "value": "hand_1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

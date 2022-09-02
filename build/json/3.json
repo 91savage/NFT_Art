@@ -2,11 +2,25 @@
   "name": "GOXO Society #3",
   "description": "Golfwear of Originality X Ordinary",
   "image": "ipfs://QmbeWPhUh1ewAhutzpqaqCZDbua2oGcHoByA1o5QZ2T8xT/3.png",
+<<<<<<< HEAD
   "dna": "356d736beecd5b843356f57d9ba620919be2883e",
+=======
+<<<<<<< HEAD
+  "dna": "b411a68b08fb4ef4728641295d73fc7e75cdaa60",
+  "edition": 3,
+  "date": 1660647536529,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "background_6"
+=======
+  "dna": "6926fba586f88d1928bfd3fe42706d323a9353c2",
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
   "edition": 3,
   "date": 1662096189169,
   "attributes": [
     {
+<<<<<<< HEAD
       "trait_type": "backgrounds",
       "value": "Artboard 1"
     },
@@ -17,6 +31,19 @@
     {
       "trait_type": "behind",
       "value": "golf_bag"
+=======
+      "trait_type": "Backgrounds",
+      "value": "background_5"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "Background_tools",
+      "value": "background_tools_1"
+    },
+    {
+      "trait_type": "weather",
+      "value": "weather_2"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     },
     {
       "trait_type": "clothes",
@@ -28,7 +55,38 @@
     },
     {
       "trait_type": "face_color",
+<<<<<<< HEAD
       "value": "Artboard 1"
+=======
+<<<<<<< HEAD
+      "value": "face_color_white_"
+    },
+    {
+      "trait_type": "emotion",
+      "value": "emotion_2"
+    },
+    {
+      "trait_type": "cap",
+      "value": "cap_2"
+    },
+    {
+      "trait_type": "cap_acc",
+      "value": "bucket_acc_2"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_5"
+    },
+    {
+      "trait_type": "equipment",
+      "value": "glass_2"
+=======
+      "value": "face_color_yellow_"
+    },
+    {
+      "trait_type": "emotion",
+      "value": "emotion_3"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     },
     {
       "trait_type": "cap",
@@ -36,7 +94,20 @@
     },
     {
       "trait_type": "eyes",
+<<<<<<< HEAD
       "value": "eyes_sky"
+=======
+      "value": "eyes_8"
+    },
+    {
+      "trait_type": "equipment",
+      "value": "ice_5"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "hand",
+      "value": "hand_1"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     }
   ],
   "compiler": "HashLips Art Engine"

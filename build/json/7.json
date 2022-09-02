@@ -2,6 +2,7 @@
   "name": "GOXO Society #7",
   "description": "Golfwear of Originality X Ordinary",
   "image": "ipfs://QmbeWPhUh1ewAhutzpqaqCZDbua2oGcHoByA1o5QZ2T8xT/7.png",
+<<<<<<< HEAD
   "dna": "e3643353ae0ca12d3e7f5cf086c5740fa0eab66a",
   "edition": 7,
   "date": 1662096189629,
@@ -9,6 +10,25 @@
     {
       "trait_type": "backgrounds",
       "value": "Artboard 7"
+=======
+<<<<<<< HEAD
+  "dna": "58bfad0a8d5627044607b49b2a9eac00298dfdb9",
+  "edition": 7,
+  "date": 1660647537157,
+=======
+  "dna": "f4c5ff92a54f1d2597d9537709540e5b90757d92",
+  "edition": 7,
+  "date": 1658912755838,
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "background_5"
+    },
+    {
+      "trait_type": "Background_tools",
+      "value": "background_tools_1"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     },
     {
       "trait_type": "weather",
@@ -28,6 +48,7 @@
     },
     {
       "trait_type": "face_color",
+<<<<<<< HEAD
       "value": "Artboard 1"
     },
     {
@@ -37,6 +58,45 @@
     {
       "trait_type": "eyes",
       "value": "eyes_orange"
+=======
+      "value": "face_color_white_"
+    },
+    {
+      "trait_type": "emotion",
+<<<<<<< HEAD
+      "value": "emotion_5"
+=======
+      "value": "emotion_4"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "cap",
+      "value": "bucket_3"
+    },
+    {
+      "trait_type": "cap_acc",
+<<<<<<< HEAD
+      "value": "bucket_acc_2"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_2"
+=======
+      "value": "cap_acc_2"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_4"
+>>>>>>> 5fb32143418c2285b17d0bc4571a382c3acfbb87
+    },
+    {
+      "trait_type": "equipment",
+      "value": "glass_1"
+    },
+    {
+      "trait_type": "hand",
+      "value": "hand_1"
+>>>>>>> ea59f166761e7f6b19e50532a21e6085fbef63e4
     }
   ],
   "compiler": "HashLips Art Engine"
